@@ -1,7 +1,8 @@
-package com.example.deviceinfolist
+package com.example.deviceinfolist.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.deviceinfolist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
